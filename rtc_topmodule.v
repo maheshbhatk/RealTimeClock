@@ -3,7 +3,7 @@
 // Company: 
 // Engineer: Mahesh Bhat K
 // 
-// Create Date: 06/24/2020 03:31:25 PM
+// Create Date: 
 // Design Name: 
 // Module Name: rtc_topmodule
 // Project Name: 
